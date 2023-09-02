@@ -1,10 +1,11 @@
-
+import Container  from "react-bootstrap/Container";
+import { Button, Stack } from "react-bootstrap";
 
 function App() {
   return (
-    <h1>
+    <Container>
       Budget App
-    </h1>
+    </Container>
   );
 }
 
